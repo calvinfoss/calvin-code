@@ -3,4 +3,6 @@
 plot(1:10,1:10,'r')
 
 hold on
-plot (2:5,3:6,'g')
+plot(1:20,1:20,'black')
+hold off
+
